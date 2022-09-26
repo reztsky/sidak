@@ -1,0 +1,5 @@
+---
+deployment:
+tasks:
+- export DEPLOYPATH=/home/sidf3398/sidak
+- /bin/cp -r * $DEPLOYPATH
