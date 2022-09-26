@@ -1,5 +1,5 @@
 ---
 deployment:
 tasks:
-- export DEPLOYPATH=/home/sidf3398/sidak
+- export DEPLOYPATH=/home/sidf3398/repos/sidak
 - /bin/cp -r * $DEPLOYPATH
